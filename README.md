@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jayesh Choudhary
 
-<!--
-**choudharyjayesh668/choudharyjayesh668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical web applications and enjoy exploring how software works behind the scenes. My projects range from full-stack tools to Java experiments, and I’m continuing to grow my problem-solving skills through data structures and algorithms.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+| --- | --- |
+| [J-Drive](https://github.com/choudharyjayesh668/J-Drive) | Organizes files with folders and previews, using a user's Telegram channel as the storage layer. [Live demo](https://j-drive.vercel.app/) |
+| [BillNest](https://github.com/choudharyjayesh668/BillNest) | Billing and quotation management for small businesses, with inventory and PDF exports. [Live demo](https://billnest-sh5t.onrender.com/homepage) |
+| [JiluDB](https://github.com/choudharyjayesh668/JiluDB) | A small document-oriented database built from scratch in Java, with CRUD operations and file-based persistence. |
+| [URL Shortener](https://github.com/choudharyjayesh668/url-shortner) | Creates shareable short links and redirects them to their original URLs. [Live demo](https://url-shortner-seven-blush-49.vercel.app/) |
+
+## Tools I use
+
+Java · JavaScript · React · Node.js · Express · MongoDB · Git
+
+These tools reflect the projects linked above; I’m always learning and adding to the list.
+
+## Find me
+
+- [Portfolio](https://portfolio-rho-hazel-aip764oal1.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/jayesh-choudhary-8b7201360/)
+- [GitHub](https://github.com/choudharyjayesh668)
