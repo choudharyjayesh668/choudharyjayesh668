@@ -1,24 +1,22 @@
 # Jayesh Choudhary
 
-I build practical web applications and enjoy exploring how software works behind the scenes. My projects range from full-stack tools to Java experiments, and I’m continuing to grow my problem-solving skills through data structures and algorithms.
+<p align="center">
+  <img src="profile-animation.gif" width="100%" alt="Animated terminal banner cycling through software development, Java and Spring Boot, and open-source contribution" />
+</p>
 
-## Selected projects
+Software developer exploring Java, backend systems, and full-stack web apps.
 
-| Project | What it does |
-| --- | --- |
-| [J-Drive](https://github.com/choudharyjayesh668/J-Drive) | Organizes files with folders and previews, using a user's Telegram channel as the storage layer. [Live demo](https://j-drive.vercel.app/) |
-| [BillNest](https://github.com/choudharyjayesh668/BillNest) | Billing and quotation management for small businesses, with inventory and PDF exports. [Live demo](https://billnest-sh5t.onrender.com/homepage) |
-| [JiluDB](https://github.com/choudharyjayesh668/JiluDB) | A small document-oriented database built from scratch in Java, with CRUD operations and file-based persistence. |
-| [URL Shortener](https://github.com/choudharyjayesh668/url-shortner) | Creates shareable short links and redirects them to their original URLs. [Live demo](https://url-shortner-seven-blush-49.vercel.app/) |
+## Featured repositories
+
+1. **[QuickQuit](https://github.com/choudharyjayesh668/QuickQuit)** — A lightweight macOS utility that gracefully quits running apps with a keyboard shortcut.
+2. **[J-Drive](https://github.com/choudharyjayesh668/J-Drive)** — A file organizer that uses a user's own Telegram channel as its storage layer.
+3. **[JiluDB](https://github.com/choudharyjayesh668/JiluDB)** — A document-oriented database built from scratch in Java, with CRUD operations and file-based persistence.
+4. **[Portfolio](https://github.com/choudharyjayesh668/Portfolio)** — My developer portfolio, featuring selected projects and the work I’ve been building. [Visit the portfolio](https://portfolio-rho-hazel-aip764oal1.vercel.app/).
 
 ## Tools I use
 
-Java · JavaScript · React · Node.js · Express · MongoDB · Git
-
-These tools reflect the projects linked above; I’m always learning and adding to the list.
+Java · Spring Boot · JavaScript · React · Node.js · Express · MongoDB · Git
 
 ## Find me
 
-- [Portfolio](https://portfolio-rho-hazel-aip764oal1.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/jayesh-choudhary-8b7201360/)
-- [GitHub](https://github.com/choudharyjayesh668)
+[LinkedIn](https://www.linkedin.com/in/jayesh-choudhary-8b7201360/) · [GitHub](https://github.com/choudharyjayesh668)
