@@ -9,15 +9,6 @@
 </p>
 
 <p align="center">I build useful software across web and backend systems, and enjoy turning ideas into working products.</p>
-
-<h2 align="center">Contribution trail</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/output/github-contribution-grid-snake.svg" alt="Animated snake moving through my GitHub contribution graph">
-</p>
-
-<p align="center">The contribution snake is generated daily by GitHub Actions. You can also run it from the Actions tab.</p>
-
 <h2 align="center">Technologies</h2>
 
 <p align="center">One toolbox spanning languages, web development, databases, delivery tools, and software fundamentals.</p>
@@ -30,7 +21,13 @@
 <tr><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td><td align="center" valign="middle" width="10%"><a href="https://developer.mozilla.org/en-US/docs/Glossary/MVC"><img src="https://cdn.simpleicons.org/modelcontextprotocol/6B7280" width="36" height="36" alt="MVC logo"></a><br><sub>MVC</sub></td><td align="center" valign="middle" width="10%"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/skills/auth.svg" width="36" height="36" alt="Auth logo"></a><br><sub>Auth</sub></td><td align="center" valign="middle" width="10%"><a href="https://jwt.io/introduction"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="36" height="36" alt="JWT logo"></a><br><sub>JWT</sub></td><td align="center" valign="middle" width="10%"><a href="https://www.postgresql.org/docs/"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/tech/mysql.svg" width="36" height="36" alt="Database Design logo"></a><br><sub>Database Design</sub></td><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td></tr>
 <tr><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td><td align="center" valign="middle" width="10%"><a href="https://grafana.com/docs/"><img src="https://cdn.simpleicons.org/grafana/F46800" width="36" height="36" alt="Grafana logo"></a><br><sub>Grafana</sub></td><td align="center" valign="middle" width="10%"><a href="https://grafana.com/docs/k6/latest/"><img src="https://cdn.simpleicons.org/k6/7D64FF" width="36" height="36" alt="k6 logo"></a><br><sub>k6</sub></td><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td><td width="10%">&nbsp;</td></tr>
 </table>
+<h2 align="center">Contribution trail</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/output/github-contribution-grid-snake.svg" alt="Animated snake moving through my GitHub contribution graph">
+</p>
+
+<p align="center">The contribution snake is generated daily by GitHub Actions. You can also run it from the Actions tab.</p>
 
 <h2 align="center">Selected projects</h2>
 
