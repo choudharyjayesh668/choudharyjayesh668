@@ -1,4 +1,4 @@
-# Jayesh Choudhary
+<p align="center"> # Jayesh Choudhary </p>
 
 <p align="center">
   <a href="https://portfolio-rho-hazel-aip764oal1.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -42,7 +42,7 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 | **JiluDB** | A learning-focused document database built from scratch, with CRUD operations and file-based persistence. | Java | [Repository](https://github.com/choudharyjayesh668/JiluDB) |
 
 ## Hackathons
-
+<p align="center">
 <table width="100%" border="0" cellspacing="6" cellpadding="6">
 <tr>
 <td width="33%" align="center" valign="top">
@@ -62,7 +62,7 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 </td>
 </tr>
 </table>
-
+</p>
 ## Connect
 
 [Portfolio](https://portfolio-rho-hazel-aip764oal1.vercel.app) · [X / Twitter](https://x.com/jilu_choudhary) · [Instagram](https://www.instagram.com/jayeshchoudhayy/) · [GitHub](https://github.com/choudharyjayesh668) · [LinkedIn](https://www.linkedin.com/in/jayesh-choudhary-8b7201360/)
