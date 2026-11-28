@@ -37,7 +37,7 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **QuickQuit** | A native macOS utility that sends a normal quit request to running apps from a keyboard shortcut. | Swift 6 | [Repository](https://github.com/choudharyjayesh668/QuickQuit) · npm package: `quickquit` *(not published yet)* |
+| **QuickQuit** | A native macOS utility that sends a normal quit request to running apps from a keyboard shortcut. | Swift 6 | [Repository](https://github.com/choudharyjayesh668/QuickQuit) · npm package: `quickquit` (www.npmjs.com/package/quickquit) |
 | **Monsoon Twin** | A weather digital twin that forecasts across a 32 × 36 grid, with autoregressive forecasts and perturbation-based what-if scenarios. | Python · PyTorch · MLX · FastAPI · NumPy | [Repository](https://github.com/choudharyjayesh668/monsoon-twin) · [Live demo](https://monsoon-twin-production.up.railway.app) |
 | **J-Drive** | A file manager that stores files in each user’s Telegram channel and keeps file metadata in MongoDB. | React · Vite · Tailwind CSS · Node.js · Express · MongoDB · Mongoose | [Repository](https://github.com/choudharyjayesh668/J-Drive) · [Live demo](https://j-drive.vercel.app/) |
 | **JiluDB** | A learning-focused document database built from scratch, with CRUD operations and file-based persistence. | Java | [Repository](https://github.com/choudharyjayesh668/JiluDB) |
