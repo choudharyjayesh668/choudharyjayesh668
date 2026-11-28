@@ -44,7 +44,7 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 ## Hackathons
 
 <p>
-  <img src="assets/yugaantar.png" width="180" alt="Yugaantar event logo">
+  <img src="https://yugaantar.org/art/logo-960.webp" width="180" alt="Yugaantar event logo">
   <img src="assets/machzero.png" width="180" alt="MachZero event logo">
 </p>
 
