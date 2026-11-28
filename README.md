@@ -43,15 +43,25 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 
 ## Hackathons
 
-<p align="center">
-  <img src="https://yugaantar.org/art/logo-960.webp" width="180" alt="Yugaantar event logo">
-  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/machzero.jpg" width="360" alt="MachZero hackathon logo">
-  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/zerohour.jpg" width="360" alt="ZeroHour hackathon logo">
-</p>
-
-- **Yugaantar ’26 · DevForge** — 5th place among 130 teams.
-- **MachZero Open Source Hackathon** — 2nd place.
-- **ZeroHour State-Level Hackathon** — 2nd place · [event on Unstop](https://unstop.com/p/zerohour-shunya-club-1797247).
+<table width="100%" border="0" cellspacing="6" cellpadding="6">
+<tr>
+<td width="33%" align="center" valign="top">
+  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/zerohour.jpg" width="180" alt="ZeroHour hackathon logo"><br>
+  <strong>2nd Place</strong><br>
+  <sub><a href="https://unstop.com/p/zerohour-shunya-club-1797247">Official event page</a></sub>
+</td>
+<td width="33%" align="center" valign="top">
+  <img src="https://yugaantar.org/art/logo-960.webp" width="180" alt="Yugaantar event logo"><br>
+  <strong>5th Place · DevForge (130 teams)</strong><br>
+  <sub><a href="https://yugaantar.org">Official event page</a></sub>
+</td>
+<td width="33%" align="center" valign="top">
+  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/machzero.jpg" width="180" alt="MachZero hackathon logo"><br>
+  <strong>2nd Place</strong><br>
+  <sub><a href="https://machzero.vercel.app">Official event page</a></sub>
+</td>
+</tr>
+</table>
 
 ## Connect
 
