@@ -43,9 +43,10 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 
 ## Hackathons
 
-<p>
+<p align="center">
   <img src="https://yugaantar.org/art/logo-960.webp" width="180" alt="Yugaantar event logo">
-  <img src="assets/machzero.png" width="180" alt="MachZero event logo">
+  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/machzero.jpg" width="360" alt="MachZero hackathon logo">
+  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/zerohour.jpg" width="360" alt="ZeroHour hackathon logo">
 </p>
 
 - **Yugaantar ’26 · DevForge** — 5th place among 130 teams.
