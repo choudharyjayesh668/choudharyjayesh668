@@ -24,21 +24,21 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 <tr>
 <td align="center"><img src="assets/tech/java.svg" width="38" height="38" alt="Java logo"><br>Java</td>
 <td align="center"><img src="assets/tech/javascript.svg" width="38" height="38" alt="JavaScript logo"><br>JavaScript</td>
-<td align="center"><img src="assets/tech/html5.svg" width="38" height="38" alt="HTML logo"><br>HTML</td>
-<td align="center"><img src="assets/tech/css3.svg" width="38" height="38" alt="CSS logo"><br>CSS</td>
+<td align="center"><img src="assets/tech/html.svg" width="38" height="38" alt="HTML logo"><br>HTML</td>
+<td align="center"><img src="assets/tech/css.svg" width="38" height="38" alt="CSS logo"><br>CSS</td>
 <td align="center"><img src="assets/tech/swift.svg" width="38" height="38" alt="Swift logo"><br>Swift</td>
-<td align="center"><img src="assets/tech/cplusplus.svg" width="38" height="38" alt="C++ logo"><br>C++</td>
+<td align="center"><img src="assets/tech/cpp.svg" width="38" height="38" alt="C++ logo"><br>C++</td>
 </tr>
 <tr>
 <td align="center"><img src="assets/tech/python.svg" width="38" height="38" alt="Python logo"><br>Python</td>
 <td align="center"><img src="assets/tech/react.svg" width="38" height="38" alt="React logo"><br>React</td>
-<td align="center"><img src="assets/tech/ejs.svg" width="38" height="38" alt="EJS logo"><br>EJS</td>
-<td align="center"><img src="assets/tech/vitejs.svg" width="38" height="38" alt="Vite logo"><br>Vite</td>
+<td align="center"><img src="assets/ejs.svg" width="38" height="38" alt="EJS logo"><br>EJS</td>
+<td align="center"><img src="assets/tech/vite.svg" width="38" height="38" alt="Vite logo"><br>Vite</td>
 <td align="center"><img src="assets/tech/nodejs.svg" width="38" height="38" alt="Node.js logo"><br>Node.js</td>
 <td align="center"><img src="assets/tech/express.svg" width="38" height="38" alt="Express logo"><br>Express</td>
 </tr>
 <tr>
-<td align="center"><img src="assets/tech/mongoose.svg" width="38" height="38" alt="Mongoose logo"><br>Mongoose</td>
+<td align="center"><img src="assets/mongoose.svg" width="38" height="38" alt="Mongoose logo"><br>Mongoose</td>
 <td align="center"><img src="assets/tech/mongodb.svg" width="38" height="38" alt="MongoDB logo"><br>MongoDB</td>
 <td align="center"><img src="assets/tech/mysql.svg" width="38" height="38" alt="MySQL logo"><br>MySQL</td>
 <td align="center"><img src="assets/tech/git.svg" width="38" height="38" alt="Git logo"><br>Git</td>
