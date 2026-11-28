@@ -13,7 +13,7 @@ I build useful software across web and backend systems, and enjoy turning ideas 
 ## Contribution trail
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/choudharyjayesh668/Profile-Readme/output/github-contribution-grid-snake.svg" alt="Animated snake moving through my GitHub contribution graph">
+  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/output/github-contribution-grid-snake.svg" alt="Animated snake moving through my GitHub contribution graph">
 </p>
 
 The contribution snake is generated daily by GitHub Actions. You can also run it from the Actions tab.
@@ -49,14 +49,6 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 
 **Concepts:** REST APIs · CRUD · database design · object-oriented programming · data structures and algorithms
 
-<p align="center">
-  <img src="assets/ejs.svg" width="40" alt="EJS logo"> EJS
-  &nbsp;&nbsp;
-  <img src="assets/mongoose.svg" width="40" alt="Mongoose logo"> Mongoose
-</p>
-
-**Also:** VS Code  
-**Concepts:** REST APIs · CRUD · database design · object-oriented programming · data structures and algorithms
 
 ## Selected projects
 
