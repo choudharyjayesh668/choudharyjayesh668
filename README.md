@@ -9,6 +9,31 @@
 </p>
 
 <p align="center">I build useful software across web and backend systems, and enjoy turning ideas into working products.</p>
+
+<h2 align="center">Hackathons</h2>
+
+<table align="center" width="100%" border="0" cellspacing="6" cellpadding="6">
+<tr>
+<td width="33%" align="center" valign="top">
+  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/zerohour.jpg" width="180" alt="ZeroHour hackathon logo"><br>
+  <strong>State-Level Hackathon 2nd Place</strong><br>
+  <sub><a href="https://unstop.com/p/zerohour-shunya-club-1797247">Official event page</a></sub>
+</td>
+<td width="33%" align="center" valign="top">
+  <img src="https://yugaantar.org/art/logo-960.webp" width="180" alt="Yugaantar event logo"><br>
+  <strong>5th Place · DevForge (130 teams)</strong><br>
+  <sub><a href="https://yugaantar.org">Official event page</a></sub>
+</td>
+<td width="33%" align="center" valign="top">
+  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/machzero.jpg" width="180" alt="MachZero hackathon logo"><br>
+  <strong>2nd Place</strong><br>
+  <sub><a href="https://machzero.vercel.app">Official event page</a></sub>
+</td>
+</tr>
+</table>
+</p>
+
+
 <h2 align="center">Technologies</h2>
 
 <p align="center">One toolbox spanning languages, web development, databases, delivery tools, and software fundamentals.</p>
@@ -39,28 +64,6 @@
 <tr><td align="center"><strong>JiluDB</strong></td><td align="center">A learning-focused document database built from scratch, with CRUD operations and file-based persistence.</td><td align="center">Java</td><td align="center"><a href="https://github.com/choudharyjayesh668/JiluDB">Repository</a></td></tr>
 </table>
 
-<h2 align="center">Hackathons</h2>
-
-<table align="center" width="100%" border="0" cellspacing="6" cellpadding="6">
-<tr>
-<td width="33%" align="center" valign="top">
-  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/zerohour.jpg" width="180" alt="ZeroHour hackathon logo"><br>
-  <strong>State-Level Hackathon 2nd Place</strong><br>
-  <sub><a href="https://unstop.com/p/zerohour-shunya-club-1797247">Official event page</a></sub>
-</td>
-<td width="33%" align="center" valign="top">
-  <img src="https://yugaantar.org/art/logo-960.webp" width="180" alt="Yugaantar event logo"><br>
-  <strong>5th Place · DevForge (130 teams)</strong><br>
-  <sub><a href="https://yugaantar.org">Official event page</a></sub>
-</td>
-<td width="33%" align="center" valign="top">
-  <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/machzero.jpg" width="180" alt="MachZero hackathon logo"><br>
-  <strong>2nd Place</strong><br>
-  <sub><a href="https://machzero.vercel.app">Official event page</a></sub>
-</td>
-</tr>
-</table>
-</p>
 <h2 align="center">Connect</h2>
 
 <p align="center"><a href="https://portfolio-rho-hazel-aip764oal1.vercel.app">Portfolio</a> · <a href="https://x.com/jilu_choudhary">X / Twitter</a> · <a href="https://www.instagram.com/jayeshchoudhayy/">Instagram</a> · <a href="https://github.com/choudharyjayesh668">GitHub</a> · <a href="https://www.linkedin.com/in/jayesh-choudhary-8b7201360/">LinkedIn</a></p>
