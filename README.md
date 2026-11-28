@@ -26,7 +26,13 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
   <img src="https://skillicons.dev/icons?i=vite,nodejs,express,mongodb,mysql,git,github,vscode&perline=8" alt="Vite, Node.js, Express, MongoDB, MySQL, Git, GitHub, and Visual Studio Code logos">
 </p>
 
-**Also:** EJS · Mongoose · VS Code  
+<p align="center">
+  <img src="assets/ejs.svg" width="40" alt="EJS logo"> EJS
+  &nbsp;&nbsp;
+  <img src="assets/mongoose.svg" width="40" alt="Mongoose logo"> Mongoose
+</p>
+
+**Also:** VS Code  
 **Concepts:** REST APIs · CRUD · database design · object-oriented programming · data structures and algorithms
 
 ## Selected projects
