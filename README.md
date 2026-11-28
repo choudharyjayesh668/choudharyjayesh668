@@ -48,7 +48,7 @@
 <tr>
 <td width="33%" align="center" valign="top">
   <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/zerohour.jpg" width="180" alt="ZeroHour hackathon logo"><br>
-  <strong>2nd Place</strong><br>
+  <strong>State-Level Hackathon 2nd Place</strong><br>
   <sub><a href="https://unstop.com/p/zerohour-shunya-club-1797247">Official event page</a></sub>
 </td>
 <td width="33%" align="center" valign="top">
