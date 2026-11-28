@@ -1,4 +1,4 @@
-<p align="center"> # Jayesh Choudhary </p>
+<h1 align="center">Jayesh Choudhary</h1>
 
 <p align="center">
   <a href="https://portfolio-rho-hazel-aip764oal1.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -41,9 +41,9 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 | **J-Drive** | A file manager that stores files in each user’s Telegram channel and keeps file metadata in MongoDB. | React · Vite · Tailwind CSS · Node.js · Express · MongoDB · Mongoose | [Repository](https://github.com/choudharyjayesh668/J-Drive) · [Live demo](https://j-drive.vercel.app/) |
 | **JiluDB** | A learning-focused document database built from scratch, with CRUD operations and file-based persistence. | Java | [Repository](https://github.com/choudharyjayesh668/JiluDB) |
 
-## Hackathons
-<p align="center">
-<table width="100%" border="0" cellspacing="6" cellpadding="6">
+<h2 align="center">Hackathons</h2>
+
+<table align="center" width="100%" border="0" cellspacing="6" cellpadding="6">
 <tr>
 <td width="33%" align="center" valign="top">
   <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/zerohour.jpg" width="180" alt="ZeroHour hackathon logo"><br>
