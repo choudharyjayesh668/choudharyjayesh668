@@ -8,19 +8,19 @@
   <a href="https://www.linkedin.com/in/jayesh-choudhary-8b7201360/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-I build useful software across web and backend systems, and enjoy turning ideas into working products.
+<p align="center">I build useful software across web and backend systems, and enjoy turning ideas into working products.</p>
 
-## Contribution trail
+<h2 align="center">Contribution trail</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/output/github-contribution-grid-snake.svg" alt="Animated snake moving through my GitHub contribution graph">
 </p>
 
-The contribution snake is generated daily by GitHub Actions. You can also run it from the Actions tab.
+<p align="center">The contribution snake is generated daily by GitHub Actions. You can also run it from the Actions tab.</p>
 
-## Technologies
+<h2 align="center">Technologies</h2>
 
-<p>One toolbox spanning languages, web development, databases, delivery tools, and software fundamentals.</p>
+<p align="center">One toolbox spanning languages, web development, databases, delivery tools, and software fundamentals.</p>
 
 <table width="100%" border="1" bordercolor="#30363d" cellspacing="4" cellpadding="8">
 <tr><td align="center" valign="middle" width="10%"><a href="https://dev.java/learn/"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/tech/java.svg" width="36" height="36" alt="Java logo"></a><br><sub>Java</sub></td><td align="center" valign="middle" width="10%"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/tech/javascript.svg" width="36" height="36" alt="JavaScript logo"></a><br><sub>JavaScript</sub></td><td align="center" valign="middle" width="10%"><a href="https://www.typescriptlang.org/docs/"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/skills/typescript.svg" width="36" height="36" alt="TypeScript logo"></a><br><sub>TypeScript</sub></td><td align="center" valign="middle" width="10%"><a href="https://en.cppreference.com/w/"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/tech/cpp.svg" width="36" height="36" alt="C++ logo"></a><br><sub>C++</sub></td><td align="center" valign="middle" width="10%"><a href="https://docs.python.org/3/"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/tech/python.svg" width="36" height="36" alt="Python logo"></a><br><sub>Python</sub></td><td align="center" valign="middle" width="10%"><a href="https://www.swift.org/documentation/"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/tech/swift.svg" width="36" height="36" alt="Swift logo"></a><br><sub>Swift</sub></td><td align="center" valign="middle" width="10%"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/tech/html.svg" width="36" height="36" alt="HTML logo"></a><br><sub>HTML</sub></td><td align="center" valign="middle" width="10%"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/tech/css.svg" width="36" height="36" alt="CSS logo"></a><br><sub>CSS</sub></td><td align="center" valign="middle" width="10%"><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/choudharyjayesh668/choudharyjayesh668/main/assets/tech/react.svg" width="36" height="36" alt="React.js logo"></a><br><sub>React.js</sub></td><td align="center" valign="middle" width="10%"><a href="https://ejs.co/"><img src="https://cdn.simpleicons.org/ejs/A91E50" width="36" height="36" alt="EJS logo"></a><br><sub>EJS</sub></td></tr>
@@ -32,14 +32,15 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 </table>
 
 
-## Selected projects
+<h2 align="center">Selected projects</h2>
 
-| Project | What it does | Stack | Links |
-| --- | --- | --- | --- |
-| **QuickQuit** | A native macOS utility that sends a normal quit request to running apps from a keyboard shortcut. | Swift 6 | [Repository](https://github.com/choudharyjayesh668/QuickQuit) · npm package: `quickquit` (www.npmjs.com/package/quickquit) |
-| **Monsoon Twin** | A weather digital twin that forecasts across a 32 × 36 grid, with autoregressive forecasts and perturbation-based what-if scenarios. | Python · PyTorch · MLX · FastAPI · NumPy | [Repository](https://github.com/choudharyjayesh668/monsoon-twin) · [Live demo](https://monsoon-twin-production.up.railway.app) |
-| **J-Drive** | A file manager that stores files in each user’s Telegram channel and keeps file metadata in MongoDB. | React · Vite · Tailwind CSS · Node.js · Express · MongoDB · Mongoose | [Repository](https://github.com/choudharyjayesh668/J-Drive) · [Live demo](https://j-drive.vercel.app/) |
-| **JiluDB** | A learning-focused document database built from scratch, with CRUD operations and file-based persistence. | Java | [Repository](https://github.com/choudharyjayesh668/JiluDB) |
+<table align="center" width="100%" border="1" cellspacing="0" cellpadding="6">
+<tr><th align="center">Project</th><th align="center">What it does</th><th align="center">Stack</th><th align="center">Links</th></tr>
+<tr><td align="center"><strong>QuickQuit</strong></td><td align="center">A native macOS utility that sends a normal quit request to running apps from a keyboard shortcut.</td><td align="center">Swift 6</td><td align="center"><a href="https://github.com/choudharyjayesh668/QuickQuit">Repository</a> · <a href="https://www.npmjs.com/package/quickquit">npm package</a></td></tr>
+<tr><td align="center"><strong>Monsoon Twin</strong></td><td align="center">A weather digital twin that forecasts across a 32 × 36 grid, with autoregressive forecasts and perturbation-based what-if scenarios.</td><td align="center">Python · PyTorch · MLX · FastAPI · NumPy</td><td align="center"><a href="https://github.com/choudharyjayesh668/monsoon-twin">Repository</a> · <a href="https://monsoon-twin-production.up.railway.app">Live demo</a></td></tr>
+<tr><td align="center"><strong>J-Drive</strong></td><td align="center">A file manager that stores files in each user’s Telegram channel and keeps file metadata in MongoDB.</td><td align="center">React · Vite · Tailwind CSS · Node.js · Express · MongoDB · Mongoose</td><td align="center"><a href="https://github.com/choudharyjayesh668/J-Drive">Repository</a> · <a href="https://j-drive.vercel.app/">Live demo</a></td></tr>
+<tr><td align="center"><strong>JiluDB</strong></td><td align="center">A learning-focused document database built from scratch, with CRUD operations and file-based persistence.</td><td align="center">Java</td><td align="center"><a href="https://github.com/choudharyjayesh668/JiluDB">Repository</a></td></tr>
+</table>
 
 <h2 align="center">Hackathons</h2>
 
@@ -63,6 +64,6 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 </tr>
 </table>
 </p>
-## Connect
+<h2 align="center">Connect</h2>
 
-[Portfolio](https://portfolio-rho-hazel-aip764oal1.vercel.app) · [X / Twitter](https://x.com/jilu_choudhary) · [Instagram](https://www.instagram.com/jayeshchoudhayy/) · [GitHub](https://github.com/choudharyjayesh668) · [LinkedIn](https://www.linkedin.com/in/jayesh-choudhary-8b7201360/)
+<p align="center"><a href="https://portfolio-rho-hazel-aip764oal1.vercel.app">Portfolio</a> · <a href="https://x.com/jilu_choudhary">X / Twitter</a> · <a href="https://www.instagram.com/jayeshchoudhayy/">Instagram</a> · <a href="https://github.com/choudharyjayesh668">GitHub</a> · <a href="https://www.linkedin.com/in/jayesh-choudhary-8b7201360/">LinkedIn</a></p>
