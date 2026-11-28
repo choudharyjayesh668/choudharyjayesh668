@@ -20,11 +20,34 @@ The contribution snake is generated daily by GitHub Actions. You can also run it
 
 ## Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,swift,cpp,py,react&perline=8" alt="Java, JavaScript, HTML, CSS, Swift, C++, Python, and React logos">
-  <br>
-  <img src="https://skillicons.dev/icons?i=vite,nodejs,express,mongodb,mysql,git,github,vscode&perline=8" alt="Vite, Node.js, Express, MongoDB, MySQL, Git, GitHub, and Visual Studio Code logos">
-</p>
+<table>
+<tr>
+<td align="center"><img src="assets/tech/java.svg" width="38" height="38" alt="Java logo"><br>Java</td>
+<td align="center"><img src="assets/tech/javascript.svg" width="38" height="38" alt="JavaScript logo"><br>JavaScript</td>
+<td align="center"><img src="assets/tech/html5.svg" width="38" height="38" alt="HTML logo"><br>HTML</td>
+<td align="center"><img src="assets/tech/css3.svg" width="38" height="38" alt="CSS logo"><br>CSS</td>
+<td align="center"><img src="assets/tech/swift.svg" width="38" height="38" alt="Swift logo"><br>Swift</td>
+<td align="center"><img src="assets/tech/cplusplus.svg" width="38" height="38" alt="C++ logo"><br>C++</td>
+</tr>
+<tr>
+<td align="center"><img src="assets/tech/python.svg" width="38" height="38" alt="Python logo"><br>Python</td>
+<td align="center"><img src="assets/tech/react.svg" width="38" height="38" alt="React logo"><br>React</td>
+<td align="center"><img src="assets/tech/ejs.svg" width="38" height="38" alt="EJS logo"><br>EJS</td>
+<td align="center"><img src="assets/tech/vitejs.svg" width="38" height="38" alt="Vite logo"><br>Vite</td>
+<td align="center"><img src="assets/tech/nodejs.svg" width="38" height="38" alt="Node.js logo"><br>Node.js</td>
+<td align="center"><img src="assets/tech/express.svg" width="38" height="38" alt="Express logo"><br>Express</td>
+</tr>
+<tr>
+<td align="center"><img src="assets/tech/mongoose.svg" width="38" height="38" alt="Mongoose logo"><br>Mongoose</td>
+<td align="center"><img src="assets/tech/mongodb.svg" width="38" height="38" alt="MongoDB logo"><br>MongoDB</td>
+<td align="center"><img src="assets/tech/mysql.svg" width="38" height="38" alt="MySQL logo"><br>MySQL</td>
+<td align="center"><img src="assets/tech/git.svg" width="38" height="38" alt="Git logo"><br>Git</td>
+<td align="center"><img src="assets/tech/github.svg" width="38" height="38" alt="GitHub logo"><br>GitHub</td>
+<td align="center"><img src="assets/tech/vscode.svg" width="38" height="38" alt="VS Code logo"><br>VS Code</td>
+</tr>
+</table>
+
+**Concepts:** REST APIs · CRUD · database design · object-oriented programming · data structures and algorithms
 
 <p align="center">
   <img src="assets/ejs.svg" width="40" alt="EJS logo"> EJS
